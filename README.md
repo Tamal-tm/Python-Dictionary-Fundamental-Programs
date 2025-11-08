@@ -24,12 +24,12 @@ Dictionary methods: .items(), .keys(), .values(), .update()
 
 Practical programs like:
 
-Counting word frequency
+--Counting word frequency
 
-Merging two dictionaries
+--Merging two dictionaries
 
-Reversing key-value pairs
+--Reversing key-value pairs
 
-Finding maximum/minimum values
+--Finding maximum/minimum values
 
-Sorting dictionaries by key or value
+--Sorting dictionaries by key or value
