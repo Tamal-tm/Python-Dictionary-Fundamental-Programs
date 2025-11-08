@@ -22,7 +22,7 @@ B. Topics Covered
 
 8. Dictionary methods: .items(), .keys(), .values(), .update()
 
-Practical programs like:
+C. Practical programs like:
 
 --Counting word frequency
 
