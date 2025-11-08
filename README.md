@@ -10,9 +10,9 @@ B. Topics Covered
 
 2. Accessing values using keys and .get()
 
-Adding & updating items dynamically
+3. Adding & updating items dynamically
 
-Removing elements using pop(), del, and clear()
+4. Removing elements using pop(), del, and clear()
 
 Looping through keys, values, and key-value pairs
 
