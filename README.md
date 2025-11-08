@@ -14,9 +14,9 @@ B. Topics Covered
 
 4. Removing elements using pop(), del, and clear()
 
-Looping through keys, values, and key-value pairs
+5. Looping through keys, values, and key-value pairs
 
-Checking existence of keys using in
+6. Checking existence of keys using in
 
 Nested dictionaries and their access
 
