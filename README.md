@@ -18,9 +18,9 @@ B. Topics Covered
 
 6. Checking existence of keys using in
 
-Nested dictionaries and their access
+7. Nested dictionaries and their access
 
-Dictionary methods: .items(), .keys(), .values(), .update()
+8. Dictionary methods: .items(), .keys(), .values(), .update()
 
 Practical programs like:
 
