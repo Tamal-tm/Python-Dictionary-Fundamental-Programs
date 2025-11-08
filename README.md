@@ -1,14 +1,14 @@
 # Python-Dictionary-Fundamental-Programs
 
-Overview
+A. Overview
 
 This collection covers basic to intermediate Python dictionary programs that help understand key concepts like creation, access, modification, iteration, and common operations.
 
-🧩 Topics Covered
+B. Topics Covered
 
-Creating dictionaries using {} or dict()
+1. Creating dictionaries using {} or dict()
 
-Accessing values using keys and .get()
+2. Accessing values using keys and .get()
 
 Adding & updating items dynamically
 
