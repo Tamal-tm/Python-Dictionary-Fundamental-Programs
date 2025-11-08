@@ -9,8 +9,8 @@ print(marks)
 marks={"John":89,"Lisa":65,"Peter":90,"Ravi":50}
 pop_item=marks.pop("Lisa")
 
-
 print(marks)
+
 
 
 
