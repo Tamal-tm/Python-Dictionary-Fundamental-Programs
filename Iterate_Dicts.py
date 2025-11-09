@@ -5,7 +5,6 @@ print(friends["Monica"])
 
 # Using items
 
-
 for key, value in friends.items():
     print(key,"-", value)
 
@@ -22,6 +21,7 @@ for key in friends.keys():
 for i in friends.values():
 
     print(i)
+
 
 
 
