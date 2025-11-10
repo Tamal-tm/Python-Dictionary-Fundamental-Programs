@@ -7,6 +7,6 @@ if name in friends.keys():
 
 
 if name in friends.values():
-
     print("Value already")
+
 
