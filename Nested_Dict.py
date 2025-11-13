@@ -1,4 +1,4 @@
-# Using 3rd variablr
+# Using 3rd variable
 
 
 from pathlib import Path
@@ -8,3 +8,4 @@ Path("C:/Users/catas/Downloads/Dajal Materials/Essentials/new-dict/demo-dict").m
 
 
 # If we run again, will give error, since same file exists. So to not have any erroe, exists_ok=True. Default value is False.
+
