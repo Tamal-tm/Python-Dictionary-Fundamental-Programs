@@ -3,6 +3,7 @@ print(marks)
 
 # Based on values
 
+
 sv=sorted(marks.items(), key= lambda x : x[1])
 print(sv) # List in dictionary format
 
@@ -12,4 +13,5 @@ v=sorted(marks.values())
 print(v)
 
 v=sorted(marks.keys())
+
 print(v)
