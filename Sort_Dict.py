@@ -6,7 +6,6 @@ print(marks)
 sv=sorted(marks.items(), key= lambda x : x[1])
 print(sv) # List in dictionary format
 
-
 # Sort only with values.
 
 v=sorted(marks.values())
@@ -16,6 +15,7 @@ print(v)
 v=sorted(marks.keys())
 
 print(v)
+
 
 
 
