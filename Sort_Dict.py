@@ -14,8 +14,10 @@ print(sv) # List in dictionary format
 v=sorted(marks.values())
 print(v)
 
+
 v=sorted(marks.keys())
 
 print(v)
+
 
 
